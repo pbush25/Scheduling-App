@@ -1,0 +1,28 @@
+2200 Aerospace Fundamentals
+3110 Aerodynamics I
+3130 Aerodynamics Laboratory
+3220 Aerospace Systems
+3970 Special Topics
+4140 Aerodynamics III
+4510 Aerospace Propulsion
+4620 Aerospace Structures II
+4710 Aerospace Design I
+4970 Special Tops in Aerospace Engr
+4997 Honors Thesis
+4AA0 Program Assessment
+5330 Applied Orbital Mechanics
+6330 Applied Orbital Mechanics
+7200 Dynamics of Flight
+7206 Dynamics of Flight
+7220 Spacecraft Att Dynamics Cntrl
+7330 Prbit Determination
+7350 Optimal Ctrl of Aerospace Veh
+7536 Aerotcgen Prop
+7620 Aero Comp Struct Static
+7626 Aero Comp Struct Static
+7950 Seminar
+7970 Special Tops in Aerospace Engr
+7976 Sp Tops Aerospace Engr
+7986 Aerospace Engineering Project
+7990 Research and Thesis
+8990 Research and Dissertation

@@ -1,0 +1,37 @@
+1110 Drawing I
+1120 Drawing II
+1210 2-D Design for Studio Art
+1220 3-D Design for Studio Art
+1510 Looking at Art: App to Interpr
+1717 Honors Intro to Art History I
+1720 Intro to Art History II
+1730 Intro to Art History III
+2110 Figure Drawing
+2140 Advanced Drawing I
+2210 Introduction to Photography
+2310 Painting I
+2410 Printmaking: Relief
+2510 Introduction to Sculpture
+2610 Introduction to Digital Art
+2810 Ceramics I
+3150 Advanced Drawing II
+3230 Intermediate Photography
+3320 Painting II
+3330 Painting III
+3430 Printmaking: Serigraphy
+3530 Sculpture as Space
+3720 Medieval Art of the West
+3730 Renaissance Art in Italy
+3760 20th Century Art
+3820 Ceramics II
+3830 Ceramics III
+3920 Internship Studio Art/Art History 
+4240 Advanced Photography
+4340 Painting IV
+4440 Advanced Printmaking
+4540 Advanced Sculpture
+4700 Senior Capstone: Art History 
+4840 Ceramics IV
+4850 Prifessional Studio Practices
+4970 Special Top Stud Art & Art History
+4980 Senior Project for Studio Arts

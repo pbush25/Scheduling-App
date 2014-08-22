@@ -1,0 +1,46 @@
+1000 Basic Crop Science
+1003 Basic Crop Science
+2040 Basic Soil Science
+2043 Basic Soil Science
+3120 Principles of Weed Science
+3123 Principles of Weed Science
+3150 Turfgrass Management
+3153 Turfgrass Management
+3920 Agronomy and Soils Internship
+3970 Spec topics Agronomy & Soils
+4200 Soil Judging
+4967 Honors Special Problems
+4997 Honors Thesis
+5083 Soil Resources and Conservation
+5100 Plant Genetics and Crop Improv
+5103 Plant Genetics and Crop Imp
+5180 Sports Turf Management
+5300 Soil Chemistry
+5303 Soil Chemistry
+5590 Environmental Soil Physics
+5960 Special Problems
+5970 Adv Spec Problems Agron & Soil
+6026 Nutrient Management
+6086 Soil Sources and Conversatio
+6100 Plant Genetics and Crop Improv
+6106 Plant Genetics and Crop Imp
+6180 Sports Turf Management
+6300 Soil Chemistry
+6306 Soil Chemistry
+6590 Environmental Soil Physics
+6906 Dir Stud in Agronomy & Soils
+6936 Adv Dir Stud in AGRN
+6960 Special Problems
+6970 Adv Special Probl Agr & Soils
+7140 Chem And Herbicides Crop Pdn
+7146 Chemistry and Use of Herbicide
+7170 Advanced Plant Breeding
+7560 Clay Mineralogy
+7586 Soil Physics
+7950 Seminar
+7656 Seminar
+7990 Research and Thesis
+7996 Research and Thesis
+8990 Reseach and Dissertation
+
+

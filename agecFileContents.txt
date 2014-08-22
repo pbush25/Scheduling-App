@@ -1,0 +1,22 @@
+3010 Agribusiness Marketing
+3050 Farm Appraisal
+3080 Futures and Options Marketing
+3100 Computer Applications in Ag Ec
+3920 Ag Business and Econ Intern
+4000 Principles of Agribusiness Mgt
+4040 Agricultural Finance
+4070 Agricultural Law
+4960 Spec Prob in Agricultural Econ
+4967 Honors Special Problems
+4997 Honors Thesis
+5090 Resource Economics I
+5100 Agricultural Business Mgt
+6090 Resource Economics I
+6100 Agricultural Business Mgt
+7200 Aquacultural Economics I
+7690 Special Problems in Agric Econ
+7970 Special Topics in Agric Econ
+7990 Research and Thesis
+8060 Theory of Agricultural Markets
+8080 Production Economics II
+8990 Research and Dissertation

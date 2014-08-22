@@ -1,0 +1,73 @@
+1000 Intro to Biology
+1001 Intro to Biology Laboratory
+1010 A Survey of Life
+1011 A Survey of Life Laboratory
+1020 Principles of Biology
+1021 Principles of Biology Lab
+1027 Honors Biology
+1030 Organismal Biology
+1031 Organismal Biology Laboratory
+2500 Human Anatomy and Physiology I
+2510 Human Anatomy and Physiology II
+3000 Genetics
+3003 Genetics
+3010 Comparative Anatomy
+3020 Genomic Biology
+3030 Evolution and Systematics
+3060 Ecology
+3100 Plant Biology
+3123 Nursing Pathophysiology
+3200 General Microbiology
+4010 Invertebrate Biodiversity
+4020 Vertebrate Biodiversity
+4100 Cell Biology
+4101 Cell Biology Laboratory
+4410 Vertebrate Development
+4920 Internship in Biology
+4950 Undergraduate Seminar
+4967 Honors Special Problems
+4970 Special Topics
+4980 undergraduate Research
+4997 Honors Thesis
+5090 Conservation Biology
+5110 Parasitology
+5160 Field Biology and Ecology
+5190 Cell and Mol Signal Transduct
+5200 Clinical Microbiology
+5220 Intro molecular Genetics
+5250 Microbial Evolution & Diversit
+5260 Prokaryotic Molecular Genetics
+5270 Host-microbe Interactions
+5300 Plant Anatomy and Development
+5350 Behavorial Ecology
+5380 general Ichthyology
+5500 Immunology
+5521 Gene Express Recombinant Dna La
+5600 Biomedical Physiology
+5740 Herpetology
+5760 Mammalogy
+6090 conservation Biology
+6110 Parasitology
+6160 Field Biology and Ecology
+6190 Cell and Mol Signal Transduct
+6220 Clinical Microbiology
+3250 Microbila Evolution & Diversi
+6260 Prokaryotic Molecular Genetics
+6270 Host-Microbe Interactions
+6300 Plant Anatomy and Development
+6350 Behavorial Ecology
+6380 General Ichthyology
+6500 Immunology
+6521 Gene Expres Recombinant Dna La
+6600 Biomedical Physiology
+6740 Herpetology
+6760 Mammalogy
+7010 Fundamentals of Teaching Bio
+7540 Professional Aspects of Bio
+7560 Plantanimal Interactions
+7950 Masters Theis Seminar
+7690 Special Problems
+7970 Special Topics
+7990 Reseach and Thesis
+8950 Doctoral Seminar
+8990 Research and Dissertation

@@ -1,0 +1,37 @@
+2200 Document Processing
+2203 Document Processing
+3200 records Management
+3203 Records management
+3240 Information Processing I
+3243 Info Processing I
+4000 Class/Lab Mgt in Career tech
+4003 Class/Lab Mgt in Career tech
+4140 Ag Struc and Metal Fab tech
+4910 Praticum in Area of Specztn
+4920 Clinical Residency
+4923 Clinical Residnecy 
+4940 Direct Field Xp Area of Speczn
+5050 Methds of Teach Area of Special
+5053 Mthds teach Area Speczn
+6050 Mthds of teach Area of Special
+6056 Mthds Teach Area Speczn
+6060 Pgm Plan In Area Of Specztn
+6066 Program Planning
+7000 Found of Career and Techl Ed
+7006 found Career Tech Educ
+7300 Learning Resor Area of Specztn
+7306 Learning Resor in Aos
+7780 Resch in Career and techl ed
+7786 Resea Career Tech Ed
+7910 Practicum in Area of Specztn
+7916 Pracm Area of Specztn
+7920 Clinical Residency
+7926 Clinical Residency 
+7970 Spec Topics in Area of Speczn
+7990 Research and Thesis
+7996 Research and Thesis
+8950 Seminar in Area of Specztn
+8980 Field Project
+8986 Field Project
+8990 Research and Dissertation
+8996 Research and Dissertation

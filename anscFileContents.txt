@@ -1,0 +1,34 @@
+1000 Intro to Animal Sciences
+1100 Orientation to Animal Sciences
+2000 Companion Animal Management
+2010 Animals and Society
+2050 Intro to Horse Mgt and Trng
+2150 Skills and Concepts Eques Spts
+2720 Introduction to Meat Science
+2910 Livestock Welfare and Management
+3150 Equine Marketing
+3300 Intro Livestock Eval and Mktg
+3310 Intro Meat Selection Grading
+3400 Animal Nutrition
+3600 Reproductive Physiology
+3650 Physiology of Equine Athlete
+3840 Study/Travel in Animal Science
+4300 Advanced Livestock Judging
+4310 Advanced Meat Judging
+4700 Meat Processing
+4920 Internship in Animal Sciences
+4960 Special Problems
+4967 Honors Special Problems
+4970 Special Topics
+4980 Undergraduate Research 
+4997 Honors Thesis
+5010 Beef Production
+6010 Stocker Cattle Production
+7500 Expeprimental Methods
+7610 Physiology of Growth
+7950 Seminar
+7960 Special Problems
+7970 Special Topics in Animal Scien
+7990 Research and Thesis
+8610 Muscle Physgy and Biochemistry
+8990 Doct Research and Dissertation

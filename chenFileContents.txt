@@ -1,0 +1,37 @@
+2100 Prin of Chemical Engineering
+2610 Transport I
+2AA0 Chem Engr Progress Assmnt I
+3370 Phase and Reaction Equilibria
+3600 Computeraided Chemical Engr
+3620 Transport II
+3700 Chemical Reaction Engineering
+3820 Chemical Engineering Lab I
+3AA0 Chem Engr Progress Assmnt II
+4100 Pulp and Paper Processing Lab
+4170 Digital Process Control
+4450 Process Economics and Safety
+4460 Proc Sim Synthesis and Optim
+4860 Chemical Engineering Lab II
+4930 Directed Studies
+4970 Special Topics in Chem Engr
+4980 Undergraduate Research
+4997 Honors Thesis
+5110 Pulp and Paper Engineering
+5410 Macromolecular Sci and Engr
+5810 Biomedical Engineering
+5970 Adv Special Tops in Chem Engr
+6110 Pulp and Paper Engineering
+6410 Macromolecular Sci and Engr
+6416 Macromol Sci and Engr
+6810 Biomedical Engineering
+6816 Biomedical Engineering
+6970 Adv Special Tops in Chem Engr
+7100 Transport Phonemena
+7106 Transport Phonemena
+7200 Chemical Engr Thermodynamics
+7206 Chem Eng Thermodynamics
+7250 Chemical Reaction Engineering
+7900 Independent Study
+7950 Graduate Seminar
+7990 Reseach and Thesis
+8990 Reseach and Dissertation

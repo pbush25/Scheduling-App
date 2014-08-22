@@ -1,0 +1,21 @@
+2210 Engr Methods Biological System
+3210 Mech Power for Biosystems
+3310 Hydraulic Transp Biological Sy
+4210 Irrigation System Design
+4300 Prof Practice Biosys Engng
+4960 Special Problems in Biosys Eng
+4697 Honors Special Problems
+4997 Honors Thesis
+5220 Geospatial tech in Biosystems
+5510 Ecological Engineering
+5540 Biomass & Biofuels Engineering
+5560 Site Design for Biosystems
+6220 Geospatial Tech in Biosystems
+6510 Ecological Engineering
+6540 Biomass & Biofuels Engineering
+6550 Prin of Food Engineering Tech
+6560 Site Design for Biosystems
+7950 Seminar
+7970 Special topics in Biosys Eng
+7990 Research and Thesis
+8990 Research and Dissertation

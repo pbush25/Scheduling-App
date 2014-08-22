@@ -1,0 +1,35 @@
+1100 introduction to Construction
+2100 Sustainable Construction
+2300 Construction Materials
+2400 Structure of Buildings
+3400 Structures II
+3420 Structures for Builders II
+3430 Structures for Builders III
+3450 Structures III
+3500 Construction Information techn
+3600 Project Controls I
+3650 Project Controls II
+3700 Construction Safety Hoisting
+4410 Const Means/Methods Problems
+4600 Project Controls III
+4601 Project Controls III CIT Lab
+4700 Mechanical Systems
+4750 Electrical Systems
+4800 Contracting Business
+4850 Construction Law
+4860 Advanced CIT
+4890 Lean Construction
+4960 Special Problems
+4990 Building Science Thesis
+5450 Building Great Structures
+6450 Building Great Structures
+7020 Integrated Bldg Proc I
+7030 Construction Info Management
+7036 Construction Infor Management
+7046 Integrated Blding Processes II
+7060 Research Methods in BSCI
+7100 Project Management Scheduling
+7106 Grad Elect & Proj mngt
+7146 Structural Systems of Building
+7950 Graduate Seminar
+7980 Capstone Project
