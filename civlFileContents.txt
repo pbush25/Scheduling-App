@@ -1,0 +1,59 @@
+2010 Surveying
+3010 Civil Engineering Analysis
+3110 Hydraulics
+3230 Environmental Engineering
+3310 Geotechnical Engineering I
+3410 Construction Engineering
+3510 Transportation Engineering
+3610 Structural Analysis
+3820 Civil Engineering Materials
+4220 Enviro Engineering Design
+4230 Urban Hydraulic System Design
+4310 Geotechnical Engineering II
+4420 Project Management
+4530 Geometric Design
+4650 Structural Steel Design
+4690 Structural Design Project
+4960 Special Problems
+5110 Open Channel Hydraulics
+5210 Chemical Prin of Enviro Engr
+5250 Bio Prin of Enviro Engr
+5330 Landfills
+5430 Construction Safety
+5500 Traffic Engineering Analysis
+5620 Prestressed Concrete Design
+5670 Advanced Structural Analysis
+5700 Design for Lateral Loads
+5810 Pavement Des and Construction
+5970 Civl Eng Special Topics
+6110 Open Channel Hydraulics
+6116 Open Channel Hydraulics
+6210 Chem Prin of Enviro Engr
+6216 Chem Prin Enviro Engr
+6250 Bio Prin of Enviro Engr
+6256 Bio Prin of Env Engr
+6330 Landfills
+6336 Landfills
+6430 Construction Safety
+6500 Traffic Engineering Analysis
+6620 Prestressed Concrete Design
+6626 Prestress Concrete Des
+6670 Advanced Structural Analysis
+6676 Adv Structural Analysis
+6700 Design for Lateral Loads
+6706 Des for Lateral Loads
+6810 Pavement Des and Construction
+6970 Civil Eng Special Topics
+7230 Water Wastewater Ops Proc II
+7236 Wtr Wstewtr Ops Pro II
+7280 Surface Water Quality Modeling
+7286 Surface Water Qual Mod
+7310 Foundation Engineering
+7316 Foundation Engineering
+7630 Advanced Stress Analysis
+7636 Adv Stress Analysis
+7970 Special Topics in Civil Engr
+7976 Sp Topics Civil Eng
+7980 Engineering Project
+7990 Research and Thesis
+8990 Research and Dissertation

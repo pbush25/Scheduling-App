@@ -1,0 +1,40 @@
+1010 Survey of Chemistry I
+1011 Survey of Chemistry I Lab
+1030 Fundamentals Chemistry I
+1031 Fund of Chemistry I Lab
+1040 Fundamental Chemistry II
+1041 Fund of Chemistry II Lab
+1110 Gen Chem for Scientists I
+1111 General Chemistry I Lab
+1117 Honors General Chemistry I
+1118 Honors General Chemistry I Lab
+2070 Organic Chemistry I
+2071 Organic Chemistry I Laboratory
+2077 Hon Org Chem I 
+2078 Hon Org Chem I Lab
+2080 Organic Chemistry II
+2081 Organic Chemistry II Lab
+2980 Intro to Undergrad Res Chem
+3050 Analytical Chemistry
+3051 Analytical Chem Laboratory
+3160 Survey of Physical Chemistry
+4070 Physical Chemistry I
+4071 Physical Chem I Laboratory
+4100 Inorganic Chemistry
+4101 Inorganic Chemistry Laboratory
+4950 Undergraduate Seminar
+4980 Undergraduate Research in Chem
+4997 Honors Thesis
+5280 Computational Chemistry
+6280 Computational Chemistry
+7100 Advanced Inorganic Chemistry
+7200 Advanced Organic Chemistry I
+7330 Chemical Kinetics
+7370 Special Topics in Phys Chem
+7500 Advanced Analytical Chemistry
+7530 Adv Bioanalytical Chem
+7750 Formal Present in Mod Chem
+7930 Directed Individual Study
+7950 Seminar
+7990 Research and Thesis
+8990 Research and Dissertation
