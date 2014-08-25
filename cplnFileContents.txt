@@ -1,0 +1,16 @@
+5010 Introduction to Planning
+5050 Urban Economics
+5060 Transportation and Mobility
+5070 Planning and the Environment
+5080 Housing/N'borhood Conserv
+5460 Digital Applications
+5970 Special Topics in Planning
+6010 Introduction to Planning
+6050 Urban Economics
+6060 Transportation and Mobility
+6070 Planning and the Environment
+6080 Housing/N'borhood Conserv.
+6460 Digital Applications
+7200 Urban Design Studio
+7800 Synthesis Project
+7920 Planning Internship
