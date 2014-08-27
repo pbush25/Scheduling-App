@@ -1,0 +1,25 @@
+2020 Prin of Microeconomics
+2027 Honors Prin of Microeconomics
+2030 Prin of Macroeconomics
+2037 Honors Prin of Macroeconomics
+3020 Intermediate Microeconomics
+3030 Intermediate Macroeconomics
+3040 Consumer Economics
+3100 Law and Economics
+3600 Mathematical Methods for Econ
+3800 Public Choice
+4200 Gov Business and Society
+4300 International Economics
+4400 Economics of Innovation
+4600 Econometrics I
+4997 Honors Thesis
+5020 Advanced Microeconomics
+6020 Advanced Microeconomics
+7110 Microeconomics I
+7130 Mathematical Economics
+7210 Macroeconomics I
+7310 Econometrics I
+7990 Research and Thesis
+8810 Labor Market Analysis
+8970 Special Topics
+8990 Research and Dissertation

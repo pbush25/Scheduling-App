@@ -1,0 +1,73 @@
+2110 Electric Circuit Analysis
+2120 Linear Signals and Sys Anlys
+2200 Digital Logic Circuits
+2210 Digital Electronics
+2220 Computer Systems
+3030 RF Systems Lab
+3040 Eleectrical System Design Lab
+3050 Embedded System Design Lab
+3060 Wireless Design Lab
+3310 Fundamentals of Applied Emag
+3320 Emag for Wireless Comm
+3400 Communication Systems
+3500 Control Systems
+3600 Electrical Power Engineering
+3700 Analog Electronis
+3800 Random Signals and Systems
+3810 Fund of Electrical Engr
+4000 Senior Design Projects
+4200 Digital System Design
+4810 Long Term Tech Dev & Proj Mngt
+4970 Special Topics in elec Engr
+4980 Special Topics in Elec Engt
+4997 Honors Thesis
+5100 Wireless Communication Systems
+5120 Telecommunicatin Networks
+5130 RF Devices and Circuits
+5150 Information Security
+5190 Intro Digital Analog IC Design
+5200 Computer Arch and Design
+5220 Info Networks and Technology
+5230 Parallel Processing
+5240 Neural Netowrks
+5250 Cad od Digital Circuits
+5320 Electromagnetic Compatibility
+5340 Microwave and RF Engineering
+5410 Digital Signal Processing
+5530 Mobile Robot Design
+5620 Power Sysem Analysis
+5730 Microelectronic Fabrication
+5760 Solid State Sensors
+5770 Vlsi Design
+5970 Special Topics in Elec Engr
+6120 Telecommunication Networks
+6130 RF Devices and Circuits
+6150 Information Security
+6190 Intro Digial Analog IC Design
+6200 COmputer Arch and Design
+6220 Info networks and Technology
+6230 Parallel Processing
+6416 Digital Signal Proc
+6530 Mobile Robot Design
+6620 Power System Analysis
+6626 Power System Analysis
+6730 Microelectronic Fabrication
+6760 Solid State Sensors
+6766 Solid State Sensors
+6770 Vlso Design
+6970 Special Topics In Elec Engr
+7310 Adv Electrodynamics I
+7410 Stoch Sigan and Sys Anlys
+7500 Statevariable Anlys of Systems
+7506 Statevar Anlys of Sys
+7630 Advanced Electric Machines
+7710 The Fieldeffect Transistor
+7900 Independent Study in Elec Engr
+7950 Electrical Engineering Seminar
+7970 Special topics in Elec Engr
+7980 Master of Elec Engr Project
+7990 Research and Thesis
+8710 Adv Topics in Semicond Devices
+8900 Independent Study in Elec Engr
+8970 Special Topics in Elec Engr
+8990 Research and Dissertation

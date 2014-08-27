@@ -1,0 +1,57 @@
+1000 Stidui I Intro to Int Des
+1100 Studio II Techl Des Inds
+1600 Textile Industrial Complex
+2000 Global Consumer Culture
+2007 Honors Global Consumer Culture
+2100 Studio III Vis Pres Indsi
+2300 Hist of the Decorative Arts
+2700 Intro to Nonprofits Organizati
+2703 Intro to nonprofits Organizati
+2740 Illustration for Apparel
+2800 Apparel Production Management
+3100 Studio Vi Light Des Envrio Sys
+3200 Studio Vii Residential Intrs
+3600 Textiles
+3700 gender, Wealth & Philanthropy 
+3703 Gender, Wealth & Philanthropy
+3707 Gender, Wealth & Philanthropy
+3750 Product Dev Apparel Design
+3850 Merchandise Planning and Ctrl
+3900 Directed Studies
+3940 Atudy Trav in Consu & Des Scie
+3970 Special topics
+4200 Studio IX Protfolio Dev
+4500 Portfolio Devel for Designers
+4800 Apparel Engineering
+4900 UTA Experience
+4910 Practicum: Nonprofit Organs
+4920 Internship
+4960 Special Problems in design
+4967 Honors Special Problems
+4980 Undergraduate Research in CADS
+4997 Honors Thesis
+5300 Studio X: Hospitality Design
+5460 Fashion Industry Since 1910
+5610 Global Retailing Strategies
+5760 Fashion Anlys and Forecasting
+5850 Apparel Mdsg retail Mgt
+6300 Studio X: Hospitality Design
+6460 Fashio Industry Since 1910
+6500 Prof Devl: Merch Portfolio
+6610 Global Retailing Strategies
+6760 Fashio Anlys and Forecasting
+6850 Apparel Mdsg retail Mgt
+7040 Protocol for Graduate Study
+7060 Consumer and Design Sciences
+7690 Consum theory Apparel & Inter
+7900 Directed Studies
+7910 Superv Tchng in Cons & Des Sci
+7920 Graduate Internship
+7930 Advanced Design Projects
+7950 Seminar
+7960 Special Problems
+7970 Special topics in Design
+7980 Graduate Project
+7990 Reseach and Thesis
+8970 Special Topics
+8990 Research and Dissertation
