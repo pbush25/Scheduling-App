@@ -1,0 +1,54 @@
+1000 Personal Computer Applications
+1003 Personal Computer Applications
+1200 Intro to Comp For Engr and Sci
+1210 Fundamentals of Computing I
+1AA0 Computer Competency Test
+2210 Fundamentals of Computing II
+2710 Software Construction
+3000 Object Oriented Prog Eng Sci
+3010 Spreadsheet-based App with VB
+3013 Spreadsheet-Based App With VB
+3220 Prin of Programming Languages
+3240 Discrete Structures
+3270 Introduction to Algorithms
+3350 Comp Org And Assembly Lang Pgm
+3500 Intro to Operating Systems
+3700 Software Modeling and Design
+4200 Formal Languages
+4300 Computer Architecture
+4320 Intro to Computer Networks
+4710 Senior Design Project
+4730 Computer Ethics
+4960 Special Problems
+4997 Honors Thesis
+5120 Database Systems I
+5320 Des and Anlys of Comp Networks
+5370 Computer and Network Security
+5600 Artifical Intelligence
+5700 Software Process
+5710 Software Quality Assurance
+6120 Database Systems I
+6126 Database Systems I
+6320 Des and Anlys of Comp Networks
+6326 Des Anlys Computer Net
+6370 Computer and Network Security
+6376 Comp and Network Sec
+6600 Artifical Intelligence
+6620 User Interface Design and Eval
+6700 Software Process
+6706 Software Process
+6710 Software Quality Assurance
+7300 Adv Computer Architecture
+7306 Advanced Comp Archit
+7330 Tops in Parallel and Dist Comp
+7336 Topic Paral Distr Comp
+7930 Directed Study
+7950 Intro Grad Study Comp Sci Eng
+7976 Special Topics
+7980 Mswe Design Project
+7986 Ms of Sw Eng Des Proj
+7990 Research and Thesis
+8330 Adv top Parallel and Dist Comp
+8930 Directed Study
+8990 Research and Dissertation
+8996 Research and Dissertation

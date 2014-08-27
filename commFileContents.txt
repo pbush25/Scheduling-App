@@ -1,0 +1,31 @@
+1000 Public Speaking
+1003 Public Speaking
+2010 Communication in Society
+2400 Communication in Organizations
+2410 Small Group Communication
+2910 Communication Practicum
+3100 Speaking Before Audiences
+3110 Persuasion
+3113 Persuasion
+3450 Intercultural Communication
+3453 Intercultural Comm
+3500 Found of Huma Communication
+3650 Rhetoric of Sports
+3700 Argumentation
+4410 Theories of Leadership
+4470 Health Communication
+4600 Political Communication 
+4850 Discourse in Social Life
+4920 Internship
+4930 Directed Studies in Communicat
+4967 Honors Special Problems
+4973 Special Topics in Comm
+4997 Honors Thesis
+7000 Communication Theory
+7010 Hist Desc Crit Appr Comm Resch
+7480 Seminar in Organizational Comm
+7610 Stus in Pop Cul And Mass Comm
+7840 Comm Training and Consulting
+7930 Directed Studies 
+7980 Nonthesis Project in Comm
+7990 Research and Thesis
